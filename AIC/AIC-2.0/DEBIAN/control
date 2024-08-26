@@ -1,0 +1,8 @@
+Package: AIC
+Version: 2.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: coreutils, dc3dd
+Maintainer: Colby C
+Description: Find and attached storage devices and image them

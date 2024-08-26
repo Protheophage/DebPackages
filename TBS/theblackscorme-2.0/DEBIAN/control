@@ -1,0 +1,8 @@
+Package: theblackscorme
+Version: 2.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: coreutils, dc3dd
+Maintainer: Colby C protheophage@gmail.com
+Description: Wipe all storage devices except the boot device

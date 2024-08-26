@@ -1,0 +1,8 @@
+Package: make-debpackagedirs
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: Colby C protheophage@gmail.com
+Description: Create directory structure for packaging scripts into a .deb
